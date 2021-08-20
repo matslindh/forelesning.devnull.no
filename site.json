@@ -4,18 +4,14 @@
   },
   "current": {
     "title": "Introduksjon",
-    "url": "https://youtu.be/NqpRwyYdxSQ",
+    "url": "",
     "secret_url": "https://www.youtube.com/watch?v=ru3gH27Fn6E",
-    "active": true
+    "active": false
   },
   "archive": [
     {
-      "url": "https://youtu.be/Cp4XEHA2Naw",
-      "title": "Oppsummering"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=kHTuSVvFZbY",
-      "title": "Test annet format"
+      "url": "",
+      "title": ""
     }
   ]
 }
