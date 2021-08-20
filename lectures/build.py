@@ -15,7 +15,7 @@ template_env = Environment(
 
 template_env.filters['youtube_url_to_id'] = youtube_url_to_id
 
-os.makedirs(build_dir, mode=0o600, exist_ok=True)
+os.makedirs(build_dir, mode=0o700, exist_ok=True)
 output_file = os.path.join(build_dir, 'index.html')
 
 with open(output_file, 'wb') as f:
