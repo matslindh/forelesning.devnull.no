@@ -1,0 +1,21 @@
+{
+  "site": {
+    "name": "Software Engineering H2021"
+  },
+  "current": {
+    "title": "Introduksjon",
+    "url": "https://youtu.be/NqpRwyYdxSQ",
+    "secret_url": "https://www.youtube.com/watch?v=ru3gH27Fn6E",
+    "active": true
+  },
+  "archive": [
+    {
+      "url": "https://youtu.be/Cp4XEHA2Naw",
+      "title": "Oppsummering"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kHTuSVvFZbY",
+      "title": "Test annet format"
+    }
+  ]
+}

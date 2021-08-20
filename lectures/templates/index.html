@@ -1,0 +1,81 @@
+<html lang="no">
+<head>
+    <title>{{ site.title }}</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css" type="text/css" />
+    <style type="text/css">
+        .hero .title a {
+            font-size: 4.0rem;
+        }
+        .hero .subtitle a {
+            font-size: 2.8rem;
+        }
+        .hero a {
+            color: white;
+            text-decoration: underline;
+          }
+    </style>
+</head>
+<body>
+    <section class="hero is-medium is-primary is-bold">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">
+                    {% if current.active %}
+                        <a href="{{ current.url }}" title="Gå til nåværende forelesning">{{ current.title }}</a>
+                    {% else %}
+                        Ingen aktiv forelesning.
+                    {% endif %}
+                </h1>
+                <h2 class="subtitle">
+                    {% if current.active %}
+                        <a href="{{ current.url }}">Stream forelesningen her</a>
+                    {% endif %}
+                </h2>
+            </div>
+        </div>
+    </section>
+
+    <div class="container mt-4">
+        <h1 class="title">
+            Forelesninger i Software Engineering H2021
+        </h1>
+
+        <div class="columns">
+            <div class="column is-size-4 is-two-fifths">
+                <p class="is-size-4">
+                    Vi oppdaterer denne siden med adressen til forelesningen 15-20 minutter før forelesningene starter. Følg også med på Discord og Canvas.
+                </p>
+
+                {% if current.secret_url %}
+                    <p class="is-size-7">
+                        <a href="{{ current.secret_url }}">Ukas hemmelige video</a>.
+                    </p>
+                {% endif %}
+            </div>
+            <div class="column is-size-4 is-offset-one-fifth">
+                {% if current.active %}
+                    <h2 class="title">Stream aktiv forelesning</h2>
+                    <a href="{{ current.url }}">{{ current.title }}</a>
+                {% else %}
+                    Ingen aktiv forelesning.
+                {% endif %}
+
+                <h2 class="title mt-4">Arkiv</h2>
+                {% for lecture in archive %}
+                    <a href="{{ lecture.url }}">
+                        <div class="media mb-1">
+                            <div class="media-left">
+                                <img src="https://i.ytimg.com/vi/{{ lecture.url | youtube_url_to_id }}/hqdefault.jpg" alt="" width="240">
+                            </div>
+                            <div class="media-content">
+                                <h3 class="subtitle">{{ lecture.title }}</h3>
+                            </div>
+                        </div>
+                    </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</body>
+</html>
