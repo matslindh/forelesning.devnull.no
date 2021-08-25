@@ -3,15 +3,15 @@
     "name": "Software Engineering H2021"
   },
   "current": {
-    "title": "Introduksjon",
-    "url": "https://youtu.be/dCD6XbbW9WQ",
+    "title": "Prosessmodeller",
+    "url": "https://youtu.be/HL_oVNV2ArQ",
     "secret_url": "https://www.youtube.com/watch?v=ru3gH27Fn6E",
-    "active": false
+    "active": true
   },
   "archive": [
     {
-      "url": "",
-      "title": ""
+      "url": "https://www.youtube.com/watch?v=7zSQroK1raY",
+      "title": "Introduksjon"
     }
   ]
 }
