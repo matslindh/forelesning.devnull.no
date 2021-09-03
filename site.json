@@ -6,9 +6,13 @@
     "title": "Agile: Smidige prosesser",
     "url": "https://youtu.be/BqtKrpjeABM",
     "secret_url": "https://www.youtube.com/user/Computerphile",
-    "active": true
+    "active": false
   },
   "archive": [
+    {
+      "url": "https://youtu.be/tr7qh6iyZ48",
+      "title": "Agile: Smidige prosesser"
+    },
     {
       "url": "https://youtu.be/J8ZUoISdMK4",
       "title": "Prosessmodeller"
