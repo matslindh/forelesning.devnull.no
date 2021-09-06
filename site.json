@@ -4,10 +4,10 @@
     "title": "Forelesninger i Software Engineering på HiØ H2021"
   },
   "current": {
-    "title": "Agile: Smidige prosesser",
-    "url": "https://youtu.be/BqtKrpjeABM",
-    "secret_url": "https://www.youtube.com/user/Computerphile",
-    "active": false
+    "title": "Krav",
+    "url": "https://youtu.be/ldOGMYlyamM",
+    "secret_url": "https://www.youtube.com/watch?v=TBR9ypSOTGQ",
+    "active": true
   },
   "archive": [
     {
