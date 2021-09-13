@@ -4,12 +4,16 @@
     "title": "Forelesninger i Software Engineering på HiØ H2021"
   },
   "current": {
-    "title": "Gruppeoppgaven og mer om krav",
-    "url": "https://youtu.be/yEFaXI1Y3QA",
-    "secret_url": "https://www.youtube.com/watch?v=B9FzVhw8_bY",
+    "title": "Modellering",
+    "url": "https://youtu.be/CtAUepQccIE",
+    "secret_url": "https://www.youtube.com/watch?v=B94q7gUu75k",
     "active": false
   },
   "archive": [
+    {
+      "url": "https://www.youtube.com/watch?v=iH5KaEj5LDA",
+      "title": "Modellering"
+    },
     {
       "url": "https://www.youtube.com/watch?v=OgvInjgGx5c",
       "title": "Gruppeoppgaven og krav"
