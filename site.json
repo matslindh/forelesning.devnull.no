@@ -7,9 +7,13 @@
     "title": "TDD + Refactoring = <3",
     "url": "https://youtu.be/Qrsk-Cgx88U",
     "secret_url": "https://www.youtube.com/watch?v=B94q7gUu75k",
-    "active": true
+    "active": false
   },
   "archive": [
+    {
+      "url": "https://youtu.be/U2bEpVZWOr4",
+      "title": "TDD + Refactoring = ❤ del I"
+    },
     {
       "url": "https://youtu.be/4K0l52CPl8I",
       "title": "Testdrevet utvikling"
