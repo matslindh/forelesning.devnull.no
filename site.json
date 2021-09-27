@@ -4,10 +4,10 @@
     "title": "Forelesninger i Software Engineering på HiØ H2021"
   },
   "current": {
-    "title": "TDD + Refactoring = <3",
-    "url": "https://youtu.be/Qrsk-Cgx88U",
-    "secret_url": "https://www.youtube.com/watch?v=B94q7gUu75k",
-    "active": false
+    "title": "TDD + Refactoring = <3 del II",
+    "url": "https://youtu.be/Vah81RPqkoM",
+    "secret_url": "https://www.youtube.com/c/ContinuousDelivery",
+    "active": true
   },
   "archive": [
     {
