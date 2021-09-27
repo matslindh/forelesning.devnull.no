@@ -7,9 +7,13 @@
     "title": "TDD + Refactoring = <3 del II",
     "url": "https://youtu.be/Vah81RPqkoM",
     "secret_url": "https://www.youtube.com/c/ContinuousDelivery",
-    "active": true
+    "active": false
   },
   "archive": [
+    {
+      "url": "https://youtu.be/vKUre4wFt3Y",
+      "title": "TDD + Refactoring = ❤ del II"
+    },
     {
       "url": "https://youtu.be/U2bEpVZWOr4",
       "title": "TDD + Refactoring = ❤ del I"
