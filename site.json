@@ -4,10 +4,10 @@
     "title": "Forelesninger i Software Engineering på HiØ H2021"
   },
   "current": {
-    "title": "TDD + Refactoring = <3 del II",
-    "url": "https://youtu.be/Vah81RPqkoM",
+    "title": "Avhengigheter og testing",
+    "url": "https://youtu.be/vTIUOGVstGo",
     "secret_url": "https://www.youtube.com/c/ContinuousDelivery",
-    "active": false
+    "active": true
   },
   "archive": [
     {
