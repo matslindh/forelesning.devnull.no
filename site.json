@@ -11,6 +11,18 @@
   },
   "archive": [
     {
+      "url": "https://youtu.be/fBzy1gG32J0",
+      "title": "Praktisk eksempel med testskriving og git rebase"
+    },
+    {
+      "url": "https://youtu.be/y75rvIuUpXk",
+      "title": "Praktisk eksempel med branching og merging"
+    },
+    {
+      "url": "https://youtu.be/H6XyXgodyLw",
+      "title": "Versjonskontroll del 2"
+    },
+    {
       "url": "https://youtu.be/9Q4s8xHQ-1M",
       "title": "Avhengigheter"
     },
@@ -28,7 +40,7 @@
     },
     {
       "url": "https://youtu.be/U037MMnEJtk",
-      "title": "Kildekodekontroll"
+      "title": "Versjonskontroll del 1"
     },
     {
       "url": "https://youtu.be/4K0l52CPl8I",
