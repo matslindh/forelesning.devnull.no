@@ -7,9 +7,13 @@
     "title": "Estimering",
     "url": "https://youtu.be/O_nC3Kl_qZg",
     "secret_url": "https://www.youtube.com/watch?v=9Zd9hURkmXM",
-    "active": true
+    "active": false
   },
   "archive": [
+    {
+      "title": "Estimering",
+      "url": "https://www.youtube.com/watch?v=mhLz9mGZBoE"
+    },
     {
       "title": "Lagdeling og løst koblet kode #1 LIVE (kommer klippet)",
       "url": "https://youtu.be/pUQYp1rQJ1M"
