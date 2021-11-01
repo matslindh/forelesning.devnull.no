@@ -7,9 +7,13 @@
     "title": "Containerization",
     "url": "https://youtu.be/Fs2RdK3nlT4",
     "secret_url": "https://www.youtube.com/watch?v=8Gv0H-vPoDc",
-    "active": true
+    "active": false
   },
   "archive": [
+    {
+      "title": "Containerization, tilbakemelding gruppeveiledning og MVP",
+      "url": "https://www.youtube.com/watch?v=MWvSC1UvfYg"
+    },
     {
       "title": "Continuous Integration / Continuous Delivery",
       "url": "https://www.youtube.com/watch?v=LQ1uCV84zfo"
