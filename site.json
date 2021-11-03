@@ -11,6 +11,10 @@
   },
   "archive": [
     {
+      "title": "Orchestration: Kubernetes, Mikrotjenester og Serverless",
+      "url": "https://www.youtube.com/watch?v=gDwRiz1C0GI"
+    },
+    {
       "title": "Live-eksempel fra H2020 med Kubernetes og infrastruktur",
       "url": "https://www.youtube.com/watch?v=5wkUY84lvp0"
     },
