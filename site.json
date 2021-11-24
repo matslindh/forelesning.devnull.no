@@ -7,9 +7,13 @@
     "title": "Oppsummering",
     "url": "https://youtu.be/eIaC-EicnuY",
     "secret_url": "https://www.youtube.com/watch?v=InrGJ7C9B3s",
-    "active": true
+    "active": false
   },
-  "archive": [    
+  "archive": [
+    {
+      "title": "Oppsummering",
+      "url": "https://www.youtube.com/watch?v=z0NlGCDCpVU"
+    },
     {
       "title": "Praktisk bygging og deployment av containere",
       "url": "https://youtu.be/w9QmakahvEQ"
